@@ -1,0 +1,17 @@
+{
+  "music.nessok": {
+    "sounds": [
+      "music/nessok"
+    ]
+  }
+  , "music.pkfire": {
+    "sounds": [
+      "music/pkfire"
+    ]
+  }
+  , "music.nessdeath": {
+    "sounds": [
+      "music/nessdeath"
+    ]
+  }
+}
